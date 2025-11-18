@@ -35,5 +35,5 @@ python3 grade-generator.py
 ### Organize all files
 
 ```
-bash orgnizer.sh
+bash organizer.sh
 ```
